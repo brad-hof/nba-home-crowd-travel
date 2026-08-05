@@ -27,3 +27,10 @@ Installation (run once): `pip install plotly ipywidgets`
 ## Summary / Insights
 These trends prove the classic NBA wisdom: **home crowds matter, and travel hurts**.
 Next steps could include building a prediction model for next season’s home advantage.
+
+
+## Visualizations
+<img width="1606" height="487" alt="grouped_bar_chart" src="https://github.com/user-attachments/assets/7aa01882-1cb2-47a1-aac3-479475f37d64" />
+<img width="1609" height="424" alt="scatter_plot" src="https://github.com/user-attachments/assets/85987028-6dbe-4001-880c-774ec03fa229" />
+<img width="1612" height="422" alt="box_plot" src="https://github.com/user-attachments/assets/a00351aa-2017-427c-940a-afaf03b0bdcb" />
+<img width="1612" height="407" alt="violin_plot" src="https://github.com/user-attachments/assets/845e8933-c9e7-4d83-b43c-99295cad930f" />

@@ -7,11 +7,11 @@ In this notebook I explore the **2024-25 NBA regular season** to answer:
 
 
 ## Visualization Technique
-1. **Grouped Bar Chart** (Home vs Away Win %): Shows the classic home-court advantage at a glance and per team. Great for comparing categories.
-2. **Scatter Plot** (Attendance vs Point Differential): Reveals whether bigger crowds lead to bigger margins. Color-coded by home/away and win/loss. Perfect for spotting numeric relationships and outliers.
-3. **Box Plot** (Point Differential by Travel Distance Bucket): Illustrates how fatigue from long travel hurts away performance. Easy to compare distributions.
-4. **Violin Plot** (Win Margin by Attendance Level & Home/Away): Adds density information to show not just averages but the full spread of outcomes when crowds are small/medium/large.
 These four charts appear together on one screen. The **Team** dropdown updates three visualizations simultaneously. The bar chart always shows every team for easy league-wide comparison.
+1. **Grouped Bar Chart** (Home vs Away Win %): Shows the classic home-court advantage at a glance and per team.
+2. **Scatter Plot** (Attendance vs Point Differential): Reveals whether bigger crowds lead to bigger margins. Color-coded by home/away and win/loss.
+3. **Box Plot** (Point Differential by Travel Distance Bucket): Illustrates how fatigue from long travel hurts away performance.
+4. **Violin Plot** (Win Margin by Attendance Level & Home/Away): Adds density information to show not just averages but the full spread of outcomes when crowds are small/medium/large.
 
 
 ## Plotly Library

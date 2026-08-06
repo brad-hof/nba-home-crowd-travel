@@ -29,7 +29,7 @@ These trends prove the classic NBA wisdom: **home crowds matter, and travel hurt
 Next steps could include building a prediction model for next season’s home advantage.
 
 
-## Visualizations
+## Final Interactive Visualizations
 <img width="1606" height="487" alt="grouped_bar_chart" src="https://github.com/user-attachments/assets/7aa01882-1cb2-47a1-aac3-479475f37d64" />
 <img width="1609" height="424" alt="scatter_plot" src="https://github.com/user-attachments/assets/85987028-6dbe-4001-880c-774ec03fa229" />
 <img width="1612" height="422" alt="box_plot" src="https://github.com/user-attachments/assets/a00351aa-2017-427c-940a-afaf03b0bdcb" />

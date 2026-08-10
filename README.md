@@ -7,7 +7,7 @@ In this Jupyter Notebook I use python and data from the **2024-25 NBA regular se
 
 
 ## Visualization Technique
-These four charts appear together on one screen. The **Team** dropdown updates three visualizations simultaneously. The bar chart always shows every team for easy league-wide comparison.
+The four charts appear together on one screen at the end of the notebook. The **Team** dropdown updates the scatter/box/violin plots simultaneously while the bar chart always shows every team.
 1. **Grouped Bar Chart** (Home vs Away Win %): Shows the classic home-court advantage at a glance and per team.
 2. **Scatter Plot** (Attendance vs Point Differential): Reveals whether bigger crowds lead to bigger margins. Color-coded by home/away and win/loss.
 3. **Box Plot** (Point Differential by Travel Distance Bucket): Illustrates how fatigue from long travel hurts away performance.

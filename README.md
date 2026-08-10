@@ -21,8 +21,6 @@ I chose **Plotly** (with `plotly.express`) + `ipywidgets` because:
 - Open-source, actively maintained, and integrates perfectly with Jupyter notebooks.
 - Allows multiple charts to update together via widgets.
 
-Installation (run once): `pip install plotly ipywidgets`
-
 
 ## Summary / Insights
 These trends prove the classic NBA wisdom: **home crowds matter, and travel hurts**.

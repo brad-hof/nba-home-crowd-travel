@@ -22,9 +22,8 @@ I chose **Plotly** (with `plotly.express`) + `ipywidgets` because:
 - Allows multiple charts to update together via widgets.
 
 
-## Summary / Insights
+## Summary
 These trends prove the classic NBA wisdom: **home crowds matter, and travel hurts**.
-Next steps could include building a prediction model for next season’s home advantage.
 
 
 ## Final Interactive Dashboard

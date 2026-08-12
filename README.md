@@ -1,4 +1,4 @@
-# Home vs Away Performance, Crowd Size & Travel Impact (2024-25 NBA Regular Season)
+# NBA Home vs Away Performance, Crowd Size & Travel Impact
 
 In this Jupyter Notebook I use python and data from the **2024-25 NBA regular season** to answer:  
 1. Does playing at home really boost win rates?
@@ -20,7 +20,7 @@ I landed on these 4 visualizations because I believed they were the best way to 
 ## Summary
 The trends in the final output prove the classic NBA wisdom: **home crowds matter, and travel hurts**.
 
-Overall, this project definitely strengthened my practical skills in the end-to-end sports analytics process. It was great experience cleaning and feature-engineering large game-level data (pandas, derived metrics such as Haversine travel distance and quantile bins for attendance/travel), designing multi-view interactive dashboards that support both league-wide patterns and team-level exploration (Plotly Express + ipywidgets), and choosing visualization types that match specific analytical questions.
+Overall, this project strengthened my practical skills in the end-to-end sports analytics process. It was great experience cleaning and feature-engineering large game-level data (pandas, derived metrics such as Haversine travel distance and quantile bins for attendance/travel), designing multi-view interactive dashboards that support both league-wide patterns and team-level exploration (Plotly Express + ipywidgets), and choosing visualization types that match specific analytical questions.
 
 
 ## Insights
